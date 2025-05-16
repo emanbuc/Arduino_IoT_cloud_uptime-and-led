@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Test Arduino IoT Cloud
 
 Esercitazione connessione dispositivo IoT (ESP8266) verso piattaforma Arduino IoT Cloud
 
